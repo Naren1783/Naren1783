@@ -1,5 +1,5 @@
 # 💫 About Me:
-2nd Sem B.Tech Cybersecurity Student @ VIT | Passionate about Network Security & Python.
+1st Sem B.Tech Cybersecurity Student @ VIT | Passionate about Network Security & Python.
 
 
 ## 🌐 Socials:
